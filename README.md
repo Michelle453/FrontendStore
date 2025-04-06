@@ -5,7 +5,6 @@
 
 🌍 Enlace a la Tienda  
 🔗 [Visita DevShirts](https://devshirts.netlify.app/)  
-> *Reemplaza el enlace con el link real de tu despliegue (GitHub Pages, Netlify, etc.)*
 
 ---
 
