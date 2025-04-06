@@ -132,9 +132,6 @@ h3{
     padding: 1rem;
 }
 
-
-
-
 .producto__nombre{
     font-size: 4rem;
 }
@@ -247,7 +244,7 @@ h3{
     /*width style color*/
     border: 1rem solid var(--primarioOscuro);
     background-color: transparent;
-    color: var(--blanco);
+    /*color: var(--blanco);*/
     font-size: 2rem;
     font-family: Arial, Helvetica, sans-serif;
     padding: 1rem;
