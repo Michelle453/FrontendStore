@@ -1,36 +1,38 @@
-# 👕 DevShirts – Tienda de Camisetas Tech  
-¡Bienvenido/a a DevShirts! 🌟 Una tienda virtual donde encontrarás camisetas con los logos de las tecnologías más populares del mundo del desarrollo de software.
+# 👕 DevShirts – Tech T-Shirt Store
+
+Welcome to **DevShirts!** 🌟 A virtual store where you can find t-shirts featuring logos of the most popular technologies in the software development world.
 
 ---
 
-🌍 Enlace a la Tienda  
-🔗 [Visita DevShirts](https://devshirts.netlify.app/)  
+## 🌍 Store Link  
+🔗 [Visit DevShirts](https://devshirts.netlify.app/)
 
 ---
 
-📌 Descripción  
-DevShirts es una tienda web construida con **HTML5** y **CSS3**, con un diseño **moderno, responsive y organizado**. Aquí podrás ver camisetas con logos de tecnologías como GitHub, React, JavaScript y más, pensadas para quienes aman el mundo tech tanto como el buen diseño.
+## 📌 Description  
+DevShirts is a web store built with **HTML5** and **CSS3**, featuring a **modern, responsive, and organized design**. Here you can browse t-shirts with logos of technologies like GitHub, React, JavaScript, and more—perfect for tech enthusiasts who also love good design.
 
 ---
 
-🎨 Tecnologías Utilizadas  
-- **HTML5**: Estructura semántica de la página  
-- **CSS3**: Estilos personalizados y diseño responsive  
-- **Metodología BEM**: Para una organización clara y escalable del CSS  
-- **Media Queries**: Para adaptar el sitio a distintos dispositivos  
+## 🎨 Tech Stack
+
+- **HTML5**: Semantic page structure  
+- **CSS3**: Custom styling and responsive design  
+- **BEM Methodology**: For clear and scalable CSS organization  
+- **Media Queries**: To adapt the site to different devices  
 
 ---
 
-🚀 Características  
-✅ Diseño responsivo 📱💻  
-✅ Estilos modernos y organizados 🎨  
-✅ Interfaz simple e intuitiva 🧭  
-✅ Código limpio con BEM para facilitar el mantenimiento 🧱  
-✅ Optimizada para rendimiento y accesibilidad 🚀  
+## 🚀 Features  
+✅ Responsive design 📱💻  
+✅ Modern and organized styles 🎨  
+✅ Simple and intuitive interface 🧭  
+✅ Clean code with BEM for easy maintenance 🧱  
+✅ Optimized for performance and accessibility 🚀  
 
 ---
 
-📂 Estructura del Proyecto
+📂 Project Structure
 ```
 📂 frontend_store
  ┣ 📂 assets
@@ -43,5 +45,5 @@ DevShirts es una tienda web construida con **HTML5** y **CSS3**, con un diseño 
  ┣ producto.html
  ┗ README.md
 ```
-⭐ ¡Si te gustó el proyecto, no olvides darle una estrella en GitHub! ⭐  
-Gracias por visitar **DevShirts** 👕💻✨
+⭐ If you liked this project, don’t forget to give it a star on GitHub! ⭐  
+Thanks for visiting **DevShirts** 👕💻✨
